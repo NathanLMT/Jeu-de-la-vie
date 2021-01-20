@@ -1,0 +1,13 @@
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.csprojAssemblyReference.cache
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.AssemblyInfoInputs.cache
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.AssemblyInfo.cs
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.csproj.CoreCompileInputs.cache
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\bin\Debug\netcoreapp3.1\JeuDeLaVie.exe
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\bin\Debug\netcoreapp3.1\JeuDeLaVie.deps.json
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\bin\Debug\netcoreapp3.1\JeuDeLaVie.runtimeconfig.json
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\bin\Debug\netcoreapp3.1\JeuDeLaVie.runtimeconfig.dev.json
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\bin\Debug\netcoreapp3.1\JeuDeLaVie.dll
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\bin\Debug\netcoreapp3.1\JeuDeLaVie.pdb
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.dll
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.pdb
+C:\Users\Block\source\repos\JeuDeLaVie\JeuDeLaVie\obj\Debug\netcoreapp3.1\JeuDeLaVie.genruntimeconfig.cache
